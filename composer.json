@@ -1,0 +1,20 @@
+{
+    "name": "vladislavverpeta/game-of-life-php",
+    "description": "Console version of Game of life math algorithm",
+    "type": "project",
+    "require": {
+        "php": "^8.2"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Vladislavverpeta\\GameOfLifePhp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Vladyslav Verpeta",
+            "email": "vladverpeta@gmail.com"
+        }
+    ]
+}
